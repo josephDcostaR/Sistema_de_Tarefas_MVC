@@ -5,11 +5,12 @@ Iniciamente nesse atividade foi nos dado um projeto, que estava em programação
 
 Aqui foi usado tambem DDD, para dar razão a arquitetetura o projeto foi dividido em 4 pocotes.
 
-*DOMAIN
- Resposável pelas abstrações do comteudo do projeto
-*PRESENTATION
- Responsável pela parte de interface do usuario, no caso desse foi usado cli
-*REPOSITORIES
- Responsável por armazenar os dados do projeto
-*SERVICES
- Responsável pela lógica e o funcionamento do projeto
+* DOMAIN
+  Responsável pelas abstrações do conteúdo do projeto
+* PRESENTATION
+  Responsável pela parte de interface do usuário, no caso desse foi usado CLI
+* REPOSITORIES
+  Responsável por armazenar os dados do projeto
+* SERVICES
+  Responsável pela lógica e o funcionamento do projeto
+
